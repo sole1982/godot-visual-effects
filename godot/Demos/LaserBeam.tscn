@@ -10,3 +10,6 @@ script = ExtResource( 2 )
 [node name="LaserBeamDemo" type="Node2D" parent="."]
 script = ExtResource( 1 )
 scene = ExtResource( 3 )
+controls = [  ]
+movement_scheme = 0
+force_confined_mouse_mode = false
